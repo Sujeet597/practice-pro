@@ -321,6 +321,13 @@ padding-top: 100px;
    cursor: pointer;
 }
 
+.icons .bi{
+   color: #f44336;
+   margin: 0 13px;
+   cursor: pointer;
+   padding: 18px 0;
+}
+
 
 
 
